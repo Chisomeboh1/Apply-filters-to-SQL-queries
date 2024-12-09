@@ -1,4 +1,4 @@
-<h1>Apply Filters to SQL Queries</h1>
+<h1>SQL and Database Ativity</h1>
 
 
 <h2>Project Description</h2>
