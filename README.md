@@ -1,4 +1,4 @@
-<h1>SQL and Database Ativity</h1>
+<h1>SQL and Database Activity</h1>
 
 
 <h2>Project Description</h2>
